@@ -59,3 +59,5 @@ rightBtn.addEventListener('click', () => {
 
     UpdateImageByIndex(currentIndex)
 })
+
+
