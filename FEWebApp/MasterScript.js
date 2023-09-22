@@ -30,13 +30,13 @@ imgs.forEach((img, index) => {
 })
 
 
-/*setInterval(() => {
+setInterval(() => {
     currentIndex++
     if (currentIndex == imgs.length) {
         currentIndex = 0
     }
     UpdateImgByIndex(currentIndex)
-}, 2000)*/
+}, 2000)
 
 let leftBtn = document.querySelector('.btn.left')
 let rightBtn = document.querySelector('.btn.right')
